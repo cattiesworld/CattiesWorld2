@@ -1,8 +1,8 @@
-<img src="https://assets.paymind.online/logo.png" alt="logo" width="400"><br>
+<img src="https://cdn.mndcrftr.dev/logo.png" alt="logo" width="400"><br>
 ### A complete rewrite of a game about a cat riding a bike.
 Woah, you're one of the very few people that have ever gotten here! You're special!
 
-![Gameplay](https://assets.paymind.online/catties-world-gameplay.gif)
+![Gameplay](https://cdn.mndcrftr.dev/catties-world-gameplay.gif)
 <h1>Guide</h1>
 <h3>Controls:</h3>
 
@@ -53,8 +53,8 @@ Other versions: [Click Here](changelog.json)<br>
 
 <h3>Images</h3>
 
-<img src="https://assets.paymind.online/tiedupcattie.png" alt="tied up cattie" width="400"><br>
-<img src="https://assets.paymind.online/hostage.png" alt="hostage" width="300"> <img src="https://assets.paymind.online/blender.png" alt="blender" width="320"><br>
+<img src="https://cdn.mndcrftr.dev/tiedupcattie.png" alt="tied up cattie" width="400"><br>
+<img src="https://cdn.mndcrftr.dev/hostage.png" alt="hostage" width="300"> <img src="https://cdn.mndcrftr.dev/blender.png" alt="blender" width="320"><br>
 
 
 <h1>Credits</h1>
