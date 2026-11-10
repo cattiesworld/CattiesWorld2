@@ -27,7 +27,7 @@ Official Modding videos by me: <a href="https://www.youtube.com/playlist?list=PL
 - The code for the ragdoll physics engine and the stage are all located in the CopyCatEngine sprite.<br>
 - Parts of the UI are built with HTML. The code for that can be found in the HTML UI sprite<br>
 - The settings UI is fully modular and can be modified to have more options or to work as a completely different ui for, let's say, the Victory screen.<br>
-- You can ask me (@greedyallay) for tips when modding the game on the <a href="https://discord.gg/S22vZaCeJ9">Cattie's World Discord Server</a>
+- You can ask me (@axolay) for tips when modding the game on the <a href="https://discord.gg/S22vZaCeJ9">Cattie's World Discord Server</a>
 <h2>3. Packaging your game</h2>
 3.1 Press "File" then "Save to your computer".<br>
 3.2 Head to <a href="https://studio.penguinmod.com/PenguinMod-Packager/">Penguinmod Packager</a><br>
@@ -60,11 +60,11 @@ Other versions: [Click Here](changelog.json)<br>
 <h1>Credits</h1>
 
 **README**<br>
-Greedy Allay<br>
+Axolay<br>
 mindcrafter129
 
 **Code and Art**<br>
-Hugo Bouquet, also known as Greedy Allay
+Hugo Bouquet, also known as Axolay and formerly known as Greedy Allay
 
 **Editor**
 <br>
@@ -73,5 +73,3 @@ Penguinmod, which is based off of Turbowarp, which is a mod of Scratch.
 **Music**
 
 Kubbi (intro music)<br>
-Jules Gaia (in-game music)<br>
-AdhesiveWombat (skin selection menu)<br>
